@@ -8,6 +8,10 @@
       <?php
           echo "Minha primeira linha em PHP!";
           $myname = "Felipe";
+<<<<<<< HEAD
+=======
+          echo "Feature branch";
+>>>>>>> feature/atualizacao_estilos
         ?>
       </p>
     </body>
